@@ -296,8 +296,5 @@ This opens a browser-based UI where you can:
 - Support for other embedding models
 - Advanced FAISS indices (IVF, HNSW) for larger datasets
 
-## License
-
-This project is created as part of an assignment for CodeAtRandom AI.
 
 
