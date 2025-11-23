@@ -300,7 +300,4 @@ This opens a browser-based UI where you can:
 
 This project is created as part of an assignment for CodeAtRandom AI.
 
-## Author
-
-AI Engineer Intern Assignment - CodeAtRandom AI
 
